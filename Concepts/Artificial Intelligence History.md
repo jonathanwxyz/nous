@@ -1,0 +1,11 @@
+Started around the 1950s
+- 1940s - Human reasoning / logic first studied formally within the field of mathematics
+- 1950s - Turing Test is proposed (expected to be passed by 2000)
+- 1956 - Phrase Artificial Intelligence is coined at Dartmouth Conference
+- 1959 - Arthur Samuel wrote a program that learned to play draughts
+- 1960s - Funding increased (esp. in the military)
+- 1970s - AI winter, funding dries up as the task is hard; more compute needed and dead end frameworks
+- 1980s - Revival through bio-inspired algorithms such as neural networks, genetic algorithms. Still lots of commercial failures. Rules based expert systems used in medical/legal fields.
+- 1990s - AI diverges into separate fields: [[Machine Learning]], [[1. Computer Vision Introduction.pdf|Computer Vision]], Automated Reasoning, Planning Systems, [[4. Natural Language for Communication.pdf|Natural Language Processing]]. ML begins to overlap with statistics / probability theory.
+- 2000s - First commercial-strength applications: Google, Amazon, computer games, route-finding, credit card fraud detection, etc.
+- 2010s - Deep Neural Networks have led to significant performance improvement in speech recognition, reinforcement learning, image classification, machine translation, etc.

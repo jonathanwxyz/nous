@@ -1,0 +1,2 @@
+### What is it?
+Ping is a computer network administration software utility that measures the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source.

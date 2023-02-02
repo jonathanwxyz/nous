@@ -1,0 +1,6 @@
+- Both issue potentially more than one instruction operation at once
+	- [[Very Long Instruction Word (VLIW)|VLIW]] schedules these with the compiler
+	- [[Superscalar Extensions|Superscalar]] schedules these at runtime
+- Both need wide instruction fetch buses to avoid starvation
+	- superscalar is more efficient, no need for padding
+- Superscalar potentially faster but serious hardware is required - more area and power

@@ -1,0 +1,1 @@
+Similar to [[Very Long Instruction Word (VLIW)|VLIW]] however we perform multiple identical operations in a single clock cycle.

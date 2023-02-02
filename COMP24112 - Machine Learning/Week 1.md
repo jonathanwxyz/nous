@@ -1,0 +1,5 @@
+# [[Machine Learning Basics]]
+# [[Artificial Intelligence History]]
+# [[Supervised Learning]]
+# [[Unsupervised Learning]]
+# [[Reinforcement Learning]]

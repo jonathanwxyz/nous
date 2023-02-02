@@ -1,0 +1,9 @@
+- Treat Functions like any other data
+	- Define without naming
+	- Functions as inputs and outputs of other functions
+- Reason about them like mathematical functions
+	- If f(x) = g(x) for all x, then f = g
+		- We don't get these guarantees in procedural languages because perhaps the output might be different based on time of day or other pieces of data outside of the function parameters
+		- This allows us to swap out functions based on performance more easily
+	- let x = f(10) in x + x + x = f(10) + f(10) + f(10)
+	- We want this to be true as much as possible (but might not achieve this ideal)
