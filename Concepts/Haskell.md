@@ -6,3 +6,5 @@ Haskell is a [[Functional Programming]] Language.
 - [[Haskell - Defining Functions]]
 - [[Haskell - Stuff That Goes Wrong]]
 - [[Haskell - Types]]
+- [[Haskell - Error Values]]
+- [[Haskell - Input and Output]]

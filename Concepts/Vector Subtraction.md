@@ -1,0 +1,6 @@
+- Simply subtract the components
+- Must be same dimension
+- ![[Pasted image 20230214142124.png]]
+- Useful for representing a 'line' between two points
+- ![[Pasted image 20230214142151.png]]
+- 

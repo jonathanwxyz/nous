@@ -1,0 +1,21 @@
+- We focus on the infinite set of large values of n, ignoring small values of n
+- We measure:
+	- Run time
+	- Memory/storage requirements
+	- Bandwidth/power requirements
+- We make the assumptions when analysing algorithms that:
+	- All memory is equally expensive to access
+	- No concurrent operations
+	- All reasonable instructions take unit time except function calls
+	- Constant word size unless manipulating bits
+- Time and space complexity generally a function of input size
+- Input Size:
+	- Sorting: number of input items
+	- Multiplication: total number of bits
+	- Graph algorithm: total number of nodes and edges
+	- etc
+- We can analyse worst case and average case
+	- Worst case is an absolute guarantee and is an upper bound
+	- Average case provides expected run time but hard to measure
+		- could measure random inputs or real life inputs
+- 

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "51ccff1789f63f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5097e674bbc3047b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COMP26120 - Algorithms and Data Structures/Week 3/Proof by Induction Review.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a9b43ddfa167a78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f21f4f6d6a7bddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93169d5515c436e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2dbbe1b7d52c7d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "222729c5f7d6642f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.01219177246094
+  },
+  "right": {
+    "id": "fe4bf03af319d519",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc899a246317dd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71278e0a42d13353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMP26120 - Algorithms and Data Structures/Week 3/Proof by Induction Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f38a084c8cc4f5ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMP26120 - Algorithms and Data Structures/Week 3/Proof by Induction Review.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec180d1c1e4251bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21482392bd1058dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMP26120 - Algorithms and Data Structures/Week 3/Proof by Induction Review.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5097e674bbc3047b",
+  "lastOpenFiles": [
+    "COMP21111 - Logic and Modelling/Week 4 - DPLL, Random/DPLL Horn Optimisation.md",
+    "COMP26020 - Programming Languages & Paradigms/labs/comp26020-lab1-subject.pdf",
+    "COMP26020 - Programming Languages & Paradigms/Standard library.md",
+    "COMP26020 - Programming Languages & Paradigms/Dynamic Memory Allocation.md",
+    "COMP21111 - Logic and Modelling/Week 4 - DPLL, Random/DPLL.md",
+    "COMP24011 - Introduction to AI/Week 4 - Planning/Means-ends-analysis.md",
+    "COMP24011 - Introduction to AI/Week 4 - Planning/Forward Chaining.md",
+    "COMP24011 - Introduction to AI/Week 4 - Planning/Planning Graphs.md",
+    "COMP24011 - Introduction to AI/Week 4 - Planning/Backward Chaining.md",
+    "COMP22111 - Processor Microarchitecture/Week 2/New Verilog Concepts.md"
+  ]
+}

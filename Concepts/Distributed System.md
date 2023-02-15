@@ -15,7 +15,7 @@
 - Nodes act ==independently== from one another but can't ignore one another
 - Programmed to achieve common goals
 - Communicate by ==message passing==
-- Appear as a single coherent system to users, ==[[Distributed Transparency]]== is an important goal
+- Appear as a single coherent system to users, ==[[Distributed Systems Transparency]]== is an important goal
 - Computation is ==concurrent==
 - There is ==no shared state==
 - Failures occur and we may not know or be told about them
@@ -40,13 +40,3 @@
 
 ### Fallacies about Distributed Systems
 [[Fallacies about Distributed Systems]]
-### Transparency
-|Transparency Forms|Description|
-|---|---|
-|Access|Hide differences in data representation and how an object (resource or a process) is accessed.|  
-|Location|Hide where an object is located.|
-|Relocation|Hide that an object may be moved to another location while in use.| 
-|Migration|Hide that an object may move to another location.|
-|Replication|Hide that an object is replicated.|
-|Concurrency|Hide that an object may be shared by several independent users.|
-|Failure|Hide the failure and recovery of an object.|

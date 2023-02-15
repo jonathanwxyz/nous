@@ -1,0 +1,4 @@
+- Gives the length or size of a vector
+- ![[Pasted image 20230214142451.png]]
+- ![[Pasted image 20230214142510.png]]
+- 

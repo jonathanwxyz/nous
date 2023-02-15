@@ -1,0 +1,3 @@
+- Normalisation is the process of taking a vector and converting it into a vector of length 1 which points in the same direction
+- ![[Pasted image 20230214142730.png]]
+- (the above example is from computer graphics where the additional 1 is useful, but we don't use it here)

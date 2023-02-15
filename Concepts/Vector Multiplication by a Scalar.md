@@ -1,0 +1,4 @@
+- Multiply the individual components by a scalar C
+- ![[Pasted image 20230214142250.png]]
+- (the above example is from computer graphics where we keep the bottom value at 1, you're not going crazy)
+- ![[Pasted image 20230214142338.png]]
