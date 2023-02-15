@@ -15,3 +15,8 @@ See [[Machine Learning Basics]]
 - [[Clustering]]
 - Seriation (Sequencing)
 - Planning
+
+### Important Concepts
+- [[Imperfect Data in ML]]
+- [[Machine Learning Experiments]]
+- [[Bias-Variance Decomposition]]

@@ -4,59 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcc9724aaa29c05",
+        "id": "e48867881beb0efd",
         "type": "tabs",
         "children": [
           {
-            "id": "73223d4b3281fe29",
+            "id": "333a1fa92dec580a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP28112 - Distributed Systems/COMP28112 - Distributed Systems.md",
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9c3a8ed59a4ad8d",
+            "id": "f60fd5fabc286265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Distributed System Synchronisation.md",
+                "file": "Concepts/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "15683ad9896fa71b",
+            "id": "d962fc09d6fa96e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/The Berkeley Algorithm.md",
+                "file": "Concepts/Machine Learning Experiments.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0daa3b605245ce4",
+            "id": "698d0cc43e1c1ba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Deadlock.md",
+                "file": "Concepts/Leave One Out (LOO).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Distributed System Synchronisation.md",
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Distributed System Synchronisation.md",
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Distributed System Synchronisation.md"
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md"
               }
             }
           }
@@ -183,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9c3a8ed59a4ad8d",
+  "active": "333a1fa92dec580a",
   "lastOpenFiles": [
-    "Concepts/The Berkeley Algorithm.md",
-    "Concepts/Deadlock.md",
-    "Concepts/Distributed System Synchronisation.md",
-    "Concepts/Clock Synchronisation.md",
-    "Concepts/Cristian's Algorithm.md",
-    "Concepts/Centralised Lock Server.md",
-    "Concepts/Synchronisation.md",
-    "Concepts/Lampert's Logical Clock.md",
-    "Concepts/Logical Clocks.md",
-    "Concepts/Two Phase Commit Algorithm.md"
+    "Concepts/Bias-Variance Decomposition.md",
+    "Concepts/Machine Learning.md",
+    "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
+    "Concepts/Machine Learning Experiments.md",
+    "Concepts/Leave One Out (LOO).md",
+    "Concepts/Imperfect Data in ML.md",
+    "Concepts/Holdout Method.md",
+    "Concepts/Random Subsampling.md",
+    "Concepts/Bootstrap Sampling.md",
+    "Concepts/K-fold Cross Validation.md"
   ]
 }

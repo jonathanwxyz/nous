@@ -5,6 +5,10 @@ A form of [[Supervised Learning]] which maps inputs to classes/discrete outputs
 - Goal: Identify which categories a data pattern belongs to.  
 - Training data: Observed data patterns and their ==category memberships==.
 
+#### Formally
+![[Pasted image 20230215210742.png]]
+We have Samples which are comprised of features and class label. We have a feature vector and a set of all of the class labels
+
 ### Different Types of Classification
 - ==Binary classification==: classify into one of the two classes.  
 - ==Multi-class classification==: classify into one of the many classes.  
@@ -14,4 +18,11 @@ A form of [[Supervised Learning]] which maps inputs to classes/discrete outputs
 - ==Structured classification==: classify into structured classes
 	- Classes can be organised in sequence, tree, lattices, graph.
 	- ![[Pasted image 20230131134214.png]]
-- 
+
+### Performance Measures
+
+^f01908
+
+- [[Classification Accuracy and Error]]
+- [[Confusion Matrix]]
+- [[Precision (in Confusion Matrix)]], [[Recall (in Confusion Matrix)]], [[F1 Score]], [[Specificity (in Confusion Matrix)]]
