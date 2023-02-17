@@ -1,0 +1,5 @@
+- ==True error== of a [[ml hypothesis|hypothesis]] (error D ):
+	- For [[classification]], it is the ==probability that a single sample is misclassified==, where the sample is randomly drawn from a distribution.
+	- For [[regression]] case, it is the ==expectation of the error==. See example:
+		- ![[Pasted image 20230215223451.png]]
+	  - Error in the what the model outputs relative to the objective truth of reality
