@@ -1,3 +1,5 @@
+#Distributed-Systems 
+
 ### What is it?
 Similar to [[Cristian's Algorithm]], but there's a ==master== server process which periodically polls other ==slave== processes.
 

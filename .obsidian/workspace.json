@@ -4,58 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "e48867881beb0efd",
+        "id": "92b3c93da078e912",
         "type": "tabs",
         "children": [
           {
-            "id": "333a1fa92dec580a",
+            "id": "8bfb8798846252e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
+                "file": "COMP26120 - Algorithms and Data Structures/COMP26120 - Algorithms and Data Structures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f60fd5fabc286265",
+            "id": "d39312cfee51afae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Machine Learning.md",
+                "file": "Concepts/Dikjstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d962fc09d6fa96e8",
+            "id": "47158a455703a2ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Machine Learning Experiments.md",
+                "file": "Concepts/Bellman Ford Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "698d0cc43e1c1ba8",
+            "id": "cb008f2cbc3c76c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Leave One Out (LOO).md",
-                "mode": "source",
+                "file": "Concepts/Correctness of Dikjstra and A*.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Haskell",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.50152587890625
+    "width": 449.5
   },
   "right": {
     "id": "fe4bf03af319d519",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
+                "file": "Concepts/Correctness of Dikjstra and A*.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
+                "file": "Concepts/Correctness of Dikjstra and A*.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md"
+                "file": "Concepts/Correctness of Dikjstra and A*.md"
               }
             }
           }
@@ -182,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "333a1fa92dec580a",
+  "active": "cb008f2cbc3c76c5",
   "lastOpenFiles": [
-    "Concepts/Bias-Variance Decomposition.md",
-    "Concepts/Machine Learning.md",
-    "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
-    "Concepts/Machine Learning Experiments.md",
-    "Concepts/Leave One Out (LOO).md",
-    "Concepts/Imperfect Data in ML.md",
-    "Concepts/Holdout Method.md",
-    "Concepts/Random Subsampling.md",
-    "Concepts/Bootstrap Sampling.md",
-    "Concepts/K-fold Cross Validation.md"
+    "Concepts/Compiler Front-End.md",
+    "Concepts/Compiler Back-End.md",
+    "Concepts/Compiler Code Generation.md",
+    "Concepts/Compiler Code Optimisation.md",
+    "Concepts/Compiler Intermediate Code Generation.md",
+    "Concepts/Compiler Syntax Analysis (Parsing).md",
+    "Concepts/Compilers.md",
+    "Concepts/Abstract Syntax Tree (AST).md",
+    "Concepts/Compiler Semantic Analysis (Context Handling).md",
+    "Concepts/Compiler Lexical Analysis (Scanning).md"
   ]
 }
