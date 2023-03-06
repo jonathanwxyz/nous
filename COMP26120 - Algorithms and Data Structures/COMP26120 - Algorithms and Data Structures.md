@@ -5,10 +5,14 @@
 ## [[Week 11 - Algorithmic Techniques 2]]
 
 # Part 2
-### [[Week 1 - Introducing Graphs]]
+
+### Week 1 - Introducing Graphs
+- [[Graph]]
+- [[Graph Topological Sorting]]
 
 ### Week 2 - Shortest Paths
-[[Shortest Paths]]
+- [[Shortest Paths]]
 
 ### Week 3 - Dikjstra's algorithm and A*
-[[Dikjstra's Algorithm]]
+- [[Dikjstra's Algorithm]]
+- [[A* Search]]

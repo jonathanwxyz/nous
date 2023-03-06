@@ -39,8 +39,11 @@ Qualities we want:
 ### Steps
 1. [[Compiler Lexical Analysis (Scanning)]]
 2. [[Compiler Syntax Analysis (Parsing)]]
-3. [[Compiler Middle-end]]
-4. [[Compiler Code Generation]]
+3. [[Compiler Semantic Analysis (Context Handling)]]
+4. [[Compiler Intermediate Code Generation]]
+5. [[Compiler Code Optimisation]]
+6. [[Compiler Code Generation]]
+
 ### Front End and Back End
 ![[Pasted image 20230301111017.png]]
 In compilers there are 2 main steps called the [[Compiler Front-End|front end]] and the [[Compiler Back-End|back end]].
@@ -52,3 +55,6 @@ But: in practice, this strict separation is not free of charge.
 
 ### General Structure
 ![[Pasted image 20230301112100.png]]
+
+### Useful Definitions
+[[Compiler Useful Definitions]]

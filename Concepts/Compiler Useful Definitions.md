@@ -1,0 +1,14 @@
+Standard definitions
+- A ==vocabulary== (alphabet) is a finite set of symbols.
+- A ==string== is a finite sequence of symbols from a vocabulary.
+- A ==language== is a set of strings over a fixed vocabulary.
+- A ==grammar== is a finite way of describing a language.
+- A context-free grammar, G, is a 4-tuple, G=(S,N,T,P), where:
+	- S: starting symbol
+	- N: set of non-terminal symbols
+	- T: set of terminal symbols
+	- P: set of production rules
+- A language is the set of all terminal productions of G.
+- Example (thanks to Keith Cooper for inspiration):
+	- S=CatWord; N={CatWord}; T={miau}; 
+	- P={CatWord -> CatWord  miau  | miau}

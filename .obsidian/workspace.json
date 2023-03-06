@@ -4,59 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "92b3c93da078e912",
+        "id": "4193168f9e50e525",
         "type": "tabs",
         "children": [
           {
-            "id": "8bfb8798846252e1",
+            "id": "57b799d70f9a5323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP26120 - Algorithms and Data Structures/COMP26120 - Algorithms and Data Structures.md",
+                "file": "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d39312cfee51afae",
+            "id": "8419e1829ca0292f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Dikjstra's Algorithm.md",
+                "file": "Concepts/Local Illumination.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "47158a455703a2ea",
+            "id": "9ecfba66be05b023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Bellman Ford Algorithm.md",
+                "file": "Concepts/What are Diffuse and Specular Reflection?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb008f2cbc3c76c5",
+            "id": "d9044bc472b2365e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Correctness of Dikjstra and A*.md",
-                "mode": "preview",
+                "file": "Concepts/Local vs Global Illumination.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 363.5
   },
   "right": {
     "id": "fe4bf03af319d519",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Correctness of Dikjstra and A*.md",
+                "file": "Concepts/Local Illumination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Correctness of Dikjstra and A*.md",
+                "file": "Concepts/Local Illumination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Correctness of Dikjstra and A*.md"
+                "file": "Concepts/Local Illumination.md"
               }
             }
           }
@@ -183,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb008f2cbc3c76c5",
+  "active": "8419e1829ca0292f",
   "lastOpenFiles": [
-    "Concepts/Compiler Front-End.md",
-    "Concepts/Compiler Back-End.md",
-    "Concepts/Compiler Code Generation.md",
-    "Concepts/Compiler Code Optimisation.md",
-    "Concepts/Compiler Intermediate Code Generation.md",
-    "Concepts/Compiler Syntax Analysis (Parsing).md",
-    "Concepts/Compilers.md",
-    "Concepts/Abstract Syntax Tree (AST).md",
-    "Concepts/Compiler Semantic Analysis (Context Handling).md",
-    "Concepts/Compiler Lexical Analysis (Scanning).md"
+    "Concepts/What are Diffuse and Specular Reflection?.md",
+    "Concepts/Local Illumination.md",
+    "Concepts/Dot Product (Inner Product).md",
+    "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
+    "Concepts/Local vs Global Illumination.md",
+    "Concepts/Viewport Transformation.md",
+    "Concepts/3D Viewing.md",
+    "Concepts/Clipping Operation.md",
+    "Concepts/3D Projections.md",
+    "Concepts/3D Viewing Default View.md"
   ]
 }
