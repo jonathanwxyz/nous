@@ -26,3 +26,13 @@ We have Samples which are comprised of features and class label. We have a featu
 - [[Classification Accuracy and Error]]
 - [[Confusion Matrix]]
 - [[Precision (in Confusion Matrix)]], [[Recall (in Confusion Matrix)]], [[F1 Score]], [[Specificity (in Confusion Matrix)]]
+
+### Methods For Classification
+There are 3 approaches outlined in [[COMP24112 - Machine Learning]] seen in:
+- [[Discriminant Function by Thresholding]]
+- [[Classification by Probabilistic Inference]]
+
+### Notation for multi-output
+![[Pasted image 20230307124334.png]]
+![[Pasted image 20230307132444.png]]
+

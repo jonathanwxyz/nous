@@ -23,7 +23,7 @@ We can also convert a similarity to a distance using:
 ![[Pasted image 20230214120604.png]]
 
 #### Effect of neighbour number k
-- Hyper-parameter: [[k-NN Neighbour Number k]]
+- [[Hyper-parameter]]: [[k-NN Neighbour Number k]]
 - Small k: We may model noise!  
 - Large k: Neighbours will include too many samples from other classes, which can negatively affect the prediction.
 

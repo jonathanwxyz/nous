@@ -18,3 +18,6 @@
 - [[Concurrent Computing]]
 - [[Parallel Computing]]
 - [[Distributed Computing]]
+
+### Week 5 - Architectures
+- [[Architectures of Distributed Systems]]

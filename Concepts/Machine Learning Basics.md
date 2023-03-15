@@ -16,11 +16,12 @@ It's often used for Artificial Intelligence and Data Science tasks.
 ### History
 See [[Artificial Intelligence History]]
 
-### Machine Learning Strategy
+### Machine Learning Strategy - Data + Model
 - **Data + Model** Strategy
 	- ![[Pasted image 20230131122133.png]]
 	- **Data X**: collection of experience E.
-	- **Function f**: Function output provides answers/solutions to Task T.  
+	- **Function f**: Function output provides answers/solutions to Task T.
+		- We call f the ==prediction function==, ==target function==, or just a ==model==
 	- **Parameters θ**: control model behaviour.  
 	- **Objective function O(θ)**: It computes a performance P of task T.  
 	- **Optimisation min O(θ)**: learning (or training).

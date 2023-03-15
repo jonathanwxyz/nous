@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4193168f9e50e525",
+        "id": "4e9735538cee1c03",
         "type": "tabs",
         "children": [
           {
-            "id": "57b799d70f9a5323",
+            "id": "3ce00b7b6573f2ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8419e1829ca0292f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Local Illumination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ecfba66be05b023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/What are Diffuse and Specular Reflection?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9044bc472b2365e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Local vs Global Illumination.md",
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Machine-Learning bias varian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Local Illumination.md",
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Local Illumination.md",
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Local Illumination.md"
+                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md"
               }
             }
           }
@@ -183,17 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8419e1829ca0292f",
+  "active": "3ce00b7b6573f2ae",
   "lastOpenFiles": [
-    "Concepts/What are Diffuse and Specular Reflection?.md",
-    "Concepts/Local Illumination.md",
+    "COMP28112 - Distributed Systems/COMP28112 - Distributed Systems.md",
+    "Concepts/Edge-Server Systems.md",
+    "Concepts/Architectures of Distributed Systems.md",
+    "images/Pasted image 20230315212703.png",
+    "Concepts/Collaborative Distributed Systems.md",
+    "images/Pasted image 20230315212332.png",
+    "Concepts/Unstructured Peer-to-peer Systems.md",
+    "images/Pasted image 20230315212028.png",
+    "images/Pasted image 20230315205853.png",
+    "images/Pasted image 20230315205656.png",
+    "images/Pasted image 20230315205321.png",
+    "Concepts/Structured Peer-to-peer Systems.md",
+    "images/Pasted image 20230315204746.png",
+    "images/Pasted image 20230315204627.png",
+    "images/Pasted image 20230315204115.png",
+    "Concepts/Multi-Tiered Client-Server Architectures.md",
+    "images/Pasted image 20230315203630.png",
+    "Concepts/Simple Client-Server Architectures.md",
+    "Concepts/Event-based Architecture Style.md",
+    "Concepts/Resource-centred Architecture Style.md",
+    "Concepts/Object-based Architecture Style.md",
+    "Concepts/Layered Architecture Style.md",
+    "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
+    "COMP26020 - Programming Languages & Paradigms/labs/lab4.pdf",
+    "Concepts/K-fold Cross Validation.md",
     "Concepts/Dot Product (Inner Product).md",
-    "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
-    "Concepts/Local vs Global Illumination.md",
-    "Concepts/Viewport Transformation.md",
-    "Concepts/3D Viewing.md",
-    "Concepts/Clipping Operation.md",
-    "Concepts/3D Projections.md",
-    "Concepts/3D Viewing Default View.md"
+    "COMP24112 - Machine Learning/labs/Lab 1 Report - f85709jw.md",
+    "COMP24112 - Machine Learning/labs/Lab 1 Report - f85709jw.pdf",
+    "COMP24112 - Machine Learning/labs/Lab-1-Report.pdf",
+    "Concepts/Bias-Variance Decomposition.md",
+    "Concepts/Cross Product (Outer Product).md",
+    "Concepts/k-Nearest Neighbour.md",
+    "Concepts/k-NN Neighbour Number k.md",
+    "Concepts/True Error.md",
+    "Concepts/Classification.md",
+    "Concepts/Sample Error and True Error.md",
+    "Concepts/Sample Error.md",
+    "Concepts/Model Evaluation.md",
+    "COMP28112 - Distributed Systems/labs/lab1/Lab-1-Report.pdf",
+    "COMP24112 - Machine Learning/labs"
   ]
 }
