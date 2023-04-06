@@ -26,3 +26,5 @@
 NEED TO WRITE NOTES FOR LAST VIDEO
 
 ### Week 5
+
+### Week 6

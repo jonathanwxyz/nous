@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e9735538cee1c03",
+        "id": "e260106496ae5e28",
         "type": "tabs",
         "children": [
           {
-            "id": "3ce00b7b6573f2ae",
+            "id": "7a19c0d7385d141a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe4bf03af319d519",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,47 +139,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ce00b7b6573f2ae",
+  "active": "7a19c0d7385d141a",
   "lastOpenFiles": [
-    "COMP28112 - Distributed Systems/COMP28112 - Distributed Systems.md",
-    "Concepts/Edge-Server Systems.md",
-    "Concepts/Architectures of Distributed Systems.md",
-    "images/Pasted image 20230315212703.png",
-    "Concepts/Collaborative Distributed Systems.md",
-    "images/Pasted image 20230315212332.png",
-    "Concepts/Unstructured Peer-to-peer Systems.md",
-    "images/Pasted image 20230315212028.png",
-    "images/Pasted image 20230315205853.png",
-    "images/Pasted image 20230315205656.png",
-    "images/Pasted image 20230315205321.png",
-    "Concepts/Structured Peer-to-peer Systems.md",
-    "images/Pasted image 20230315204746.png",
-    "images/Pasted image 20230315204627.png",
-    "images/Pasted image 20230315204115.png",
-    "Concepts/Multi-Tiered Client-Server Architectures.md",
-    "images/Pasted image 20230315203630.png",
-    "Concepts/Simple Client-Server Architectures.md",
-    "Concepts/Event-based Architecture Style.md",
-    "Concepts/Resource-centred Architecture Style.md",
-    "Concepts/Object-based Architecture Style.md",
-    "Concepts/Layered Architecture Style.md",
+    "Concepts/Bump Mapping.md",
+    "images/Pasted image 20230406132234.png",
+    "images/Pasted image 20230406132204.png",
+    "images/Pasted image 20230406132144.png",
+    "images/Pasted image 20230406131945.png",
+    "images/Pasted image 20230406131911.png",
+    "images/Pasted image 20230406131734.png",
+    "images/Pasted image 20230406131610.png",
+    "images/Pasted image 20230406131437.png",
+    "images/Pasted image 20230406131308.png",
+    "Concepts/Texture Mapping.md",
+    "images/Pasted image 20230406131209.png",
+    "Concepts/Texel.md",
+    "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
+    "Concepts/Compiler Syntax Analysis (Parsing).md",
+    "Concepts/Context-free Grammars.md",
+    "Concepts/Local Illumination.md",
     "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
-    "COMP26020 - Programming Languages & Paradigms/labs/lab4.pdf",
-    "Concepts/K-fold Cross Validation.md",
-    "Concepts/Dot Product (Inner Product).md",
-    "COMP24112 - Machine Learning/labs/Lab 1 Report - f85709jw.md",
-    "COMP24112 - Machine Learning/labs/Lab 1 Report - f85709jw.pdf",
-    "COMP24112 - Machine Learning/labs/Lab-1-Report.pdf",
-    "Concepts/Bias-Variance Decomposition.md",
-    "Concepts/Cross Product (Outer Product).md",
-    "Concepts/k-Nearest Neighbour.md",
-    "Concepts/k-NN Neighbour Number k.md",
-    "Concepts/True Error.md",
-    "Concepts/Classification.md",
-    "Concepts/Sample Error and True Error.md",
-    "Concepts/Sample Error.md",
-    "Concepts/Model Evaluation.md",
+    "Concepts/Shading Surfaces.md",
+    "Concepts/Phong Shading.md",
+    "Concepts/Gouraud Shading.md",
+    "Concepts/Averaging Vertex Normals.md",
+    "Concepts/Flat Shading.md",
+    "Concepts/Chomsky's Hierarchy of Grammars.md",
+    "Concepts/Compilers.md",
+    "Concepts/Compiler Lexical Analysis (Scanning).md",
+    "COMP26020 - Programming Languages & Paradigms/PLP.md",
+    "COMP26120 - Algorithms and Data Structures/COMP26120 - Algorithms and Data Structures.md",
+    "Concepts/Minimum Spanning Tree (MST).md",
+    "Concepts/Prim's Algorithm.md",
+    "Concepts/Kruskals Algorithm.md",
+    "Concepts/Disjoint Set.md",
+    "COMP28112 - Distributed Systems/COMP28112 - Distributed Systems.md",
+    "Concepts/Replication.md",
+    "Concepts/Inter-Process Communication.md",
+    "COMP28112 - Distributed Systems/labs/lab2/Ex2-Report_f85709jw.pdf",
+    "COMP28112 - Distributed Systems/labs/lab2/COMP28112_Student_Description_LabExercise_2_Year2022-23.pdf",
+    "COMP28112 - Distributed Systems/labs/lab2/Lab3-Report_f85709jw.pdf",
+    "COMP27112 - Introduction to Visual Computing/labs/Lab3-Report_f85709jw.pdf",
+    "COMP27112 - Introduction to Visual Computing/labs/lab3.pdf",
+    "images/fundus.tif",
     "COMP28112 - Distributed Systems/labs/lab1/Lab-1-Report.pdf",
-    "COMP24112 - Machine Learning/labs"
+    "COMP26020 - Programming Languages & Paradigms/labs/lab4.pdf",
+    "COMP27112 - Introduction to Visual Computing/labs",
+    "COMP28112 - Distributed Systems/labs/lab2"
   ]
 }

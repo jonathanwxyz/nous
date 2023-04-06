@@ -21,3 +21,9 @@
 
 ### Week 5 - Architectures
 - [[Architectures of Distributed Systems]]
+
+### Week 6 - Inter-Process Communication
+- [[Inter-Process Communication]]
+
+### Week 7 - Replication
+- [[Replication]]

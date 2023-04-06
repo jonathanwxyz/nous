@@ -31,3 +31,11 @@
 #### Lecture 2 - Rendering
 - [[Local vs Global Illumination]]
 - [[Local Illumination]]
+
+### Week 5
+#### Lecture 1 - Rendering 2
+- [[Shading Surfaces]]
+
+#### Lecture 2 - Rendering 3
+- [[Texture Mapping]]
+- [[Bump Mapping]]
