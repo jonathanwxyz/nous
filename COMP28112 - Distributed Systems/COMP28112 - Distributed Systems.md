@@ -26,4 +26,7 @@
 - [[Inter-Process Communication]]
 
 ### Week 7 - Replication
-- [[Replication]]
+- [[Data Replication]]
+
+### Week 8 - Security
+- [[Distributed Systems Security]]

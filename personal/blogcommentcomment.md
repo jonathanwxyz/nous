@@ -1,0 +1,18 @@
+### Morality
+With morality I think you're right about the adaptivity point, however we can frame this adaptivity differently. From a nihilistic viewpoint, you can observe your conscience which will tell you not to do certain things like steal, and then 'rationally' ignore your conscience because you think it's just your brain playing tricks on you. Whereas with Orthodox Logos theology, we think that the Logos brings about God's Will, and so our adapted morality comes from the Divine Rationality that brought it about, through the laws of nature. So I guess in some sense, now I'm talking on the level of a meta-conscience, I suppose now one might say that the religious impulse is also an adapted instinct to keep the conscience in check, but then I can also counter argue that the Logos is bound to bring about a religious impulse within us in order to participate in God. So it comes down to which picture of reality you fancy really, one is arguably demonic and self serving, the other is much more beautiful and profound.
+
+### What is the cause of all things?
+I think the point I'd like to make is that God isn't ***in*** creation. So talk about causes ends at the metaphorical border between creation and outside of creation - all of the concepts we know and all of our notions of logic and rationality are within creation - so it's silly in some sense to extend this outside of creation.
+
+So creation itself needs a first cause - or a prime mover - as we can logically trace things back to the need for this first cause. It's worth noting that this isn't necessarily a temporal thing, I don't just mean to trace our causes back to the Big Bang (or before if there was something before). I also mean the very existence of things at every single moment, what sustains the most basic things (maybe quantum laws or gravity, this isn't really important but I mean whatever is the most fundamental of physical laws) at every moment.
+
+So even if the universe is eternal temporally, we still need an account of what gives it its being at every moment. I suppose one can say it 'just is' - the same way many atheists say that logic 'just is' - but to me at least it seems like it has a high intellectual price tag in terms of disengaging with the topic.
+
+### Everything else
+I agree with the rest of the stuff you're saying.
+
+I need to look into this Julian Jaynes person, seems like quite a weird claim stating that past people weren't conscious.
+
+I've done a tiny bit of reading up on Karl Popper, I agree with what he's saying about things needing to be falsifiable within the scientific realm. But I don't think it's actually possible to extend this to all of life without greatly limiting your existence and thinking. What I like about religion though is that it's more open and defined in what we claim is dogma, whereas more atheisic types have all sorts of dogma but are less self examined about it.
+
+Agree with a lot of the great scientists being driven by faith too, it's tragically ironic how atheists will wield the scientific theories of religious people (the Big Bang being one you didn't mention) as being some sort of refutation of religion. This goes back to the lack of self examination. I think it could simply come down to the lack of inquisitiveness in most people, they just want to watch Netflix and consume product, so if they have a half baked answer to 'refute' anything deeper then they'll just use that and not think about it too much. It's also probably due to the dumbing down of religion that I was exposed to in my youth, if I made a cocky atheistic argument then no one (including adults) knew how to argue against it.

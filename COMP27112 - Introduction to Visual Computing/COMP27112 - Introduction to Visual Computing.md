@@ -1,3 +1,4 @@
+## Part 1 - Graphics
 ### Week 1
 - [[OpenGL]]
 
@@ -39,3 +40,20 @@
 #### Lecture 2 - Rendering 3
 - [[Texture Mapping]]
 - [[Bump Mapping]]
+
+## Part 2 - Image Processing
+### Week 6
+#### Lecture 1 - Image Representation
+- [[Image Representation]]
+- [[Point Processing]]
+
+#### Lecture 2 - Colour
+- [[The Human Eye]]
+- [[Light and Pigments]]
+- [[Colour Standardisation]]
+
+### Week 7
+#### Lecture 1 - Spatial Resolution
+- [[Spatial Resolution]]
+- [[Nyquist's Theorem]]
+- [[Image Noise]]

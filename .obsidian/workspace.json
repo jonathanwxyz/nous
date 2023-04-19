@@ -4,18 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "e260106496ae5e28",
+        "id": "dc606e5ae6d830e7",
         "type": "tabs",
         "children": [
           {
-            "id": "7a19c0d7385d141a",
+            "id": "f31bbade7c6d016d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "28ac766c8f19847f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b614f5d885c27fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Image Noise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f8dfc5ef6ad56ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Nyquist's Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee795d29538fd908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Spatial Resolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "fe4bf03af319d519",
@@ -82,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Image Noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Image Noise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concepts/Image Noise.md"
+              }
             }
           }
         ]
@@ -139,43 +191,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a19c0d7385d141a",
+  "active": "b614f5d885c27fc3",
   "lastOpenFiles": [
-    "Concepts/Bump Mapping.md",
-    "images/Pasted image 20230406132234.png",
-    "images/Pasted image 20230406132204.png",
-    "images/Pasted image 20230406132144.png",
-    "images/Pasted image 20230406131945.png",
-    "images/Pasted image 20230406131911.png",
-    "images/Pasted image 20230406131734.png",
-    "images/Pasted image 20230406131610.png",
-    "images/Pasted image 20230406131437.png",
-    "images/Pasted image 20230406131308.png",
-    "Concepts/Texture Mapping.md",
-    "images/Pasted image 20230406131209.png",
-    "Concepts/Texel.md",
+    "images/Pasted image 20230419141029.png",
     "COMP27112 - Introduction to Visual Computing/COMP27112 - Introduction to Visual Computing.md",
-    "Concepts/Compiler Syntax Analysis (Parsing).md",
-    "Concepts/Context-free Grammars.md",
-    "Concepts/Local Illumination.md",
+    "Concepts/Image Noise.md",
+    "Concepts/Nyquist's Theorem.md",
+    "images/Pasted image 20230419140937.png",
+    "Concepts/Spatial Resolution.md",
+    "images/Pasted image 20230419140810.png",
+    "images/Pasted image 20230419140800.png",
+    "images/Pasted image 20230419140749.png",
+    "Concepts/Colour Standardisation.md",
+    "images/Pasted image 20230417123729.png",
+    "images/Pasted image 20230417123716.png",
+    "images/Pasted image 20230417123706.png",
+    "images/Pasted image 20230417123331.png",
+    "images/Pasted image 20230417121743.png",
+    "images/Pasted image 20230417121652.png",
+    "Concepts/The Human Eye.md",
+    "Concepts/Light and Pigments.md",
+    "Concepts/Point Processing.md",
+    "Concepts/Image Representation.md",
     "COMP24112 - Machine Learning/COMP24112 - Machine Learning.md",
-    "Concepts/Shading Surfaces.md",
-    "Concepts/Phong Shading.md",
-    "Concepts/Gouraud Shading.md",
-    "Concepts/Averaging Vertex Normals.md",
-    "Concepts/Flat Shading.md",
-    "Concepts/Chomsky's Hierarchy of Grammars.md",
-    "Concepts/Compilers.md",
-    "Concepts/Compiler Lexical Analysis (Scanning).md",
-    "COMP26020 - Programming Languages & Paradigms/PLP.md",
-    "COMP26120 - Algorithms and Data Structures/COMP26120 - Algorithms and Data Structures.md",
-    "Concepts/Minimum Spanning Tree (MST).md",
-    "Concepts/Prim's Algorithm.md",
-    "Concepts/Kruskals Algorithm.md",
-    "Concepts/Disjoint Set.md",
     "COMP28112 - Distributed Systems/COMP28112 - Distributed Systems.md",
-    "Concepts/Replication.md",
-    "Concepts/Inter-Process Communication.md",
+    "Concepts/Distributed Systems Security.md",
+    "Concepts/Linear Programming.md",
+    "COMP26120 - Algorithms and Data Structures/COMP26120 - Algorithms and Data Structures.md",
+    "Year 2 Uni/COMP21111 - Logic and Modelling/Week 7 - QBF/5. QBF Equivalent Replacement; Prenex Form.md",
+    "personal/blogcommentcomment.md",
+    "Concepts/Untitled 1.md",
+    "personal",
+    "Year 2 Uni/COMP21111 - Logic and Modelling/Week 7 - QBF/4. QBF Substitutions, Rectification.md",
+    "Year 2 Uni/COMP21111 - Logic and Modelling/Week 7 - QBF/3. QBF Free and Bound Variables, Polarity, Positions.md",
+    "Year 2 Uni/COMP21111 - Logic and Modelling/Week 7 - QBF/2. QBF Semantics.md",
+    "Year 2 Uni/COMP21111 - Logic and Modelling/Week 7 - QBF/1. QBF Syntax.md",
+    "Year 2 Uni/COMP21111 - Logic and Modelling/Week 6 - BDT BDD OBDD/Applying Boolean Functions to OBDDs.md",
+    "Concepts/Data Replication.md",
+    "Concepts/Linear Programming Standard Form Examples.md",
+    "Concepts/Bump Mapping.md",
     "COMP28112 - Distributed Systems/labs/lab2/Ex2-Report_f85709jw.pdf",
     "COMP28112 - Distributed Systems/labs/lab2/COMP28112_Student_Description_LabExercise_2_Year2022-23.pdf",
     "COMP28112 - Distributed Systems/labs/lab2/Lab3-Report_f85709jw.pdf",
@@ -184,7 +238,6 @@
     "images/fundus.tif",
     "COMP28112 - Distributed Systems/labs/lab1/Lab-1-Report.pdf",
     "COMP26020 - Programming Languages & Paradigms/labs/lab4.pdf",
-    "COMP27112 - Introduction to Visual Computing/labs",
-    "COMP28112 - Distributed Systems/labs/lab2"
+    "COMP27112 - Introduction to Visual Computing/labs"
   ]
 }

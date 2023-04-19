@@ -19,3 +19,6 @@
 
 ### Week 4 - Minimum Spanning Trees
 - [[Minimum Spanning Tree (MST)]]
+
+### Week 5 - Linear Programming
+- [[Linear Programming]]
