@@ -30,3 +30,9 @@
 
 ### Week 8 - Security
 - [[Distributed Systems Security]]
+
+### Week 9 - Service Oriented Architecture
+- [[Service-Oriented Architectures (SOAs)]]
+
+### Week 10 - Fault Tolerance
+- [[Distributed System Fault Tolerance]]

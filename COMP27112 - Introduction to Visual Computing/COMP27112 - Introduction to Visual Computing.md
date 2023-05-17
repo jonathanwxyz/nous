@@ -57,3 +57,6 @@
 - [[Spatial Resolution]]
 - [[Nyquist's Theorem]]
 - [[Image Noise]]
+
+#### Lecture 2
+- [[comp27112_ip04.pdf]]
